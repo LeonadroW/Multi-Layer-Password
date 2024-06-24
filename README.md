@@ -76,3 +76,4 @@ run()：
 确保 second_piece.txt 和 third_piece.txt 文件存在且格式正确。
 输入字符串时，确保输入有效字符。
 输入 q 或 Q 将退出程序。
+![F_Spg71aYAAB0Em](https://github.com/LeonadroW/Multi-Layer-Password/assets/137982256/1a391de4-cab7-42be-a2eb-1d4dbdf44321)
